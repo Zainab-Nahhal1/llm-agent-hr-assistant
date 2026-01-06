@@ -78,11 +78,3 @@ Open your browser to `http://127.0.0.1:5000` to view the UI, or use the sample c
 - The included `hr_assistant.py` contains mock databases and example tools; replace or extend them to connect to real databases and secure services.
 
 
-## Contributing
-
-Feel free to open PRs for features, bug fixes, and documentation improvements.
-
-
-## License
-
-This project is unlicensed. Add a license file if you plan to publish the repository publicly.
