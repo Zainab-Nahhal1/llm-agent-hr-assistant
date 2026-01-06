@@ -1,0 +1,5 @@
+from hr_assistant import app
+
+if __name__ == '__main__':
+    # Run the Flask app from the package entrypoint
+    app.run(debug=True, host='127.0.0.1', port=5000)
